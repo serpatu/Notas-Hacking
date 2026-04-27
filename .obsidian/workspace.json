@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "2a1902ca85019413",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.12.7"
+            }
+          },
+          {
             "id": "b0b39ef234d9881b",
             "type": "leaf",
             "state": {
@@ -35,7 +47,8 @@
               "title": "Sequel"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,17 +211,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
       "templates:Insertar plantilla": false,
       "daily-notes:Abrir la nota de hoy": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "bases:Crear nueva base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "acfd481ff1762e5d",
+  "active": "2a1902ca85019413",
   "lastOpenFiles": [
     "04_Aplicaciones_Web/WordPress — Pentesting.md",
     "04_Aplicaciones_Web/Webmin.md",
