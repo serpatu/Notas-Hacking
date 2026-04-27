@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "2a1902ca85019413",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Registro de cambios 1.12.7"
-            }
-          },
-          {
             "id": "b0b39ef234d9881b",
             "type": "leaf",
             "state": {
@@ -221,7 +209,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a1902ca85019413",
+  "active": "b0b39ef234d9881b",
   "lastOpenFiles": [
     "04_Aplicaciones_Web/WordPress — Pentesting.md",
     "04_Aplicaciones_Web/Webmin.md",
