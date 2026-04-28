@@ -4,7 +4,7 @@
 
 **IP:** 192.168.0.35
 **OS:** Linux (Debian 11)
-**Dificultad:** Easy-Medium
+**Dificultad:** Medium
 **Servicios Clave:** HTTP / SSH
 **Fecha:** 2026-04-24
 **Skills:** #WebFuzzing #Esteganografia #Base58 #SSHKeyHijacking #PythonLibraryHijacking #PipPrivesc
