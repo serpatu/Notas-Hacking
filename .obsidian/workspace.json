@@ -25,12 +25,14 @@
             "id": "2a1902ca85019413",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "01_Herramientas/WPScan.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Registro de cambios 1.12.7"
+              "icon": "lucide-file",
+              "title": "WPScan"
             }
           },
           {
@@ -223,6 +225,7 @@
   },
   "active": "2a1902ca85019413",
   "lastOpenFiles": [
+    "99_Maquinas/Vulnhub/Linux/DC-2.md",
     "04_Aplicaciones_Web/WordPress — Pentesting.md",
     "04_Aplicaciones_Web/Webmin.md",
     "04_Aplicaciones_Web/WordPress-Pentesting.md.pdf",
@@ -234,7 +237,6 @@
     "03_Vulnerabilidades/Escape-rbash.md",
     "01_Herramientas/CeWL.md",
     "01_Herramientas/WPScan.md",
-    "99_Maquinas/Vulnhub/Linux/DC-2.md",
     "01_Herramientas/DC-2.md",
     "CeWL.md",
     "WPScan.md",
