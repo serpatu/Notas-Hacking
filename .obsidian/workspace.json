@@ -48,23 +48,9 @@
               "icon": "lucide-file",
               "title": "Empire-LupinOne"
             }
-          },
-          {
-            "id": "b0b39ef234d9881b",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -237,7 +223,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0b39ef234d9881b",
+  "active": "075e69b113543869",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "99_Maquinas/Vulnhub/Linux/DC-2.md",
