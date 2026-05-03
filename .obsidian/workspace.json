@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99_Maquinas/HackTheBox/Linux/Sequel.md",
+                "file": "01_Herramientas/Hydra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sequel"
+              "title": "Hydra"
             }
           }
         ],
@@ -211,6 +211,8 @@
   },
   "active": "b0b39ef234d9881b",
   "lastOpenFiles": [
+    "01_Herramientas/Gobuster.md",
+    "99_Maquinas/HackTheBox/Linux/Sequel.md",
     "04_Aplicaciones_Web/WordPress — Pentesting.md",
     "04_Aplicaciones_Web/Webmin.md",
     "04_Aplicaciones_Web/WordPress-Pentesting.md.pdf",
@@ -237,8 +239,6 @@
     "01_Herramientas/Metasploit.md",
     "01_Herramientas/Ffuf.md",
     "01_Herramientas/Nmap.md",
-    "01_Herramientas/Gobuster.md",
-    "03_Vulnerabilidades/Python-Library-Hijacking.md",
     "05_Metodologías",
     "04_Aplicaciones_Web",
     "99_Maquinas/Vulnhub/Linux",
