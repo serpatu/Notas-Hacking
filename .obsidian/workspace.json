@@ -225,6 +225,7 @@
   },
   "active": "075e69b113543869",
   "lastOpenFiles": [
+    "01_Herramientas/Masscan.md",
     "conflict-files-obsidian-git.md",
     "05_Metodologías/Escalada-Privilegios-Linux.md",
     "01_Herramientas/Python-para-Pentesting.md",
@@ -252,7 +253,6 @@
     "03_Vulnerabilidades/Misconfigured-SUID.md",
     "03_Vulnerabilidades/Linux-Capabilities.md",
     "03_Vulnerabilidades/Linux-Permisos-y-Privilegios.md",
-    "01_Herramientas/SQLMap.md",
     "05_Metodologías",
     "04_Aplicaciones_Web",
     "99_Maquinas/Vulnhub/Linux",
