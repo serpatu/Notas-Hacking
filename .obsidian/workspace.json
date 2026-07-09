@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99_Maquinas/Vulnhub/Linux/Empire-LupinOne.md",
+                "file": "05_Metodologías/Escalada-Privilegios-Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Empire-LupinOne"
+              "title": "Escalada-Privilegios-Linux"
             }
           }
         ],
@@ -225,9 +225,9 @@
   },
   "active": "075e69b113543869",
   "lastOpenFiles": [
+    "99_Maquinas/Vulnhub/Linux/Empire-LupinOne.md",
     "conflict-files-obsidian-git.md",
     "99_Maquinas/Vulnhub/Linux/DC-2.md",
-    "99_Maquinas/Vulnhub/Linux/Empire-LupinOne.md",
     "99_Maquinas/HackTheBox/Linux/Sequel.md",
     "01_Herramientas/WPScan.md",
     "99_Maquinas/Vulnhub/Linux/Empire-Breakout.md",
