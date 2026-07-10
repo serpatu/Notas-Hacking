@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Herramientas/WhatWeb.md",
+                "file": "01_Herramientas/Gobuster.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WhatWeb"
+              "title": "Gobuster"
             }
           }
         ],
@@ -225,8 +225,10 @@
   },
   "active": "075e69b113543869",
   "lastOpenFiles": [
-    "05_Metodologías/Escalada-Privilegios-Linux.md",
+    "01_Herramientas/Wfuzz.md",
+    "01_Herramientas/Ffuf.md",
     "01_Herramientas/WhatWeb.md",
+    "05_Metodologías/Escalada-Privilegios-Linux.md",
     "01_Herramientas/Masscan.md",
     "conflict-files-obsidian-git.md",
     "01_Herramientas/Python-para-Pentesting.md",
@@ -251,8 +253,6 @@
     "DC-2.md",
     "Git-Privilege-Escalation.md",
     "Escape-rbash.md",
-    "03_Vulnerabilidades/Misconfigured-SUID.md",
-    "03_Vulnerabilidades/Linux-Capabilities.md",
     "05_Metodologías",
     "04_Aplicaciones_Web",
     "99_Maquinas/Vulnhub/Linux",
