@@ -228,8 +228,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "075e69b113543869",
+  "active": "f07e74c561cb351a",
   "lastOpenFiles": [
+    "05_Metodologías/Tipos-de-Shell-Reverse-Bind-Forward.md",
     "01_Herramientas/Wfuzz.md",
     "01_Herramientas/Ffuf.md",
     "01_Herramientas/WhatWeb.md",
@@ -257,7 +258,6 @@
     "WPScan.md",
     "DC-2.md",
     "Git-Privilege-Escalation.md",
-    "Escape-rbash.md",
     "05_Metodologías",
     "04_Aplicaciones_Web",
     "99_Maquinas/Vulnhub/Linux",
