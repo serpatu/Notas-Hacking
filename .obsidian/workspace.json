@@ -230,6 +230,7 @@
   },
   "active": "f07e74c561cb351a",
   "lastOpenFiles": [
+    "05_Metodologías/Tipos-de-Shell-Reverse.md",
     "05_Metodologías/Tipos-de-Shell-Reverse-Bind-Forward.md",
     "01_Herramientas/Wfuzz.md",
     "01_Herramientas/Ffuf.md",
@@ -257,7 +258,6 @@
     "CeWL.md",
     "WPScan.md",
     "DC-2.md",
-    "Git-Privilege-Escalation.md",
     "05_Metodologías",
     "04_Aplicaciones_Web",
     "99_Maquinas/Vulnhub/Linux",
