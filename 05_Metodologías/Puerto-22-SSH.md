@@ -28,6 +28,7 @@ Vulnerabilidades históricas relevantes:
 |---------|-----|-------------|
 | OpenSSH < 7.7 | CVE-2018-15473 | User enumeration |
 | OpenSSH 2.3 | CVE-2001-0144 | Buffer overflow |
+| OpenSSH 7.3p1 - 10.6p1 (musl) | CVE-2026-123158 | Bypass de auth con contraseña >256 bytes — ver [[SSH-Musl-Crypt-Bypass]] |
 
 ### Enumeración de usuarios (CVE-2018-15473)
 
