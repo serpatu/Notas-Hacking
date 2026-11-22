@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Herramientas/Nmap.md",
+                "file": "05_Metodologías/Puerto-2049-NFS.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nmap"
+              "title": "Puerto-2049-NFS"
             }
           },
           {
@@ -212,8 +212,9 @@
   },
   "active": "f07e74c561cb351a",
   "lastOpenFiles": [
-    "Ciberseguridad-master/Criptografía y Esteganografía/Algoritmos y vulnerabilidades de criptografía/9. Vulnerabilidades - TLS 1.3.md",
+    "02_Protocolos/SMB.md",
     "01_Herramientas/Nmap.md",
+    "Ciberseguridad-master/Criptografía y Esteganografía/Algoritmos y vulnerabilidades de criptografía/9. Vulnerabilidades - TLS 1.3.md",
     "99_Maquinas/Vulnhub/Linux/Empire-LupinOne.md",
     "01_Herramientas/Netcat.md",
     "01_Herramientas/Metasploit.md",
@@ -240,7 +241,6 @@
     "04_Aplicaciones_Web/WordPress — Pentesting.md",
     "04_Aplicaciones_Web/Webmin.md",
     "04_Aplicaciones_Web/WordPress-Pentesting.md.pdf",
-    "04_Aplicaciones_Web/TWiki.md",
     "04_Aplicaciones_Web/WordPress-Pentesting.md.txt",
     "05_Metodologías",
     "04_Aplicaciones_Web",
