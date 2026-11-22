@@ -210,8 +210,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "acfd481ff1762e5d",
+  "active": "f07e74c561cb351a",
   "lastOpenFiles": [
+    "Ciberseguridad-master/Criptografía y Esteganografía/Algoritmos y vulnerabilidades de criptografía/9. Vulnerabilidades - TLS 1.3.md",
+    "01_Herramientas/Nmap.md",
     "99_Maquinas/Vulnhub/Linux/Empire-LupinOne.md",
     "01_Herramientas/Netcat.md",
     "01_Herramientas/Metasploit.md",
@@ -222,7 +224,6 @@
     "03_Vulnerabilidades/HTTP-Request-Smuggling.md",
     "03_Vulnerabilidades/Docker-Archive-Binary-Hijack.md",
     "03_Vulnerabilidades/SSH-Musl-Crypt-Bypass.md",
-    "01_Herramientas/Nmap.md",
     "03_Vulnerabilidades/RCE.md",
     "99_Maquinas/HackTheBox/Linux/Sequel.md",
     "99_Maquinas/HackTheBox/Linux/Appointment.md",
@@ -241,7 +242,6 @@
     "04_Aplicaciones_Web/WordPress-Pentesting.md.pdf",
     "04_Aplicaciones_Web/TWiki.md",
     "04_Aplicaciones_Web/WordPress-Pentesting.md.txt",
-    "05_Metodologías/Variables-Entorno-Linux.md",
     "05_Metodologías",
     "04_Aplicaciones_Web",
     "99_Maquinas/Vulnhub/Linux",
